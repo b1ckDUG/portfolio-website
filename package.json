@@ -22,7 +22,7 @@
     "typewriter-effect": "^2.19.0",
     "web-vitals": "^3.0.2"
   },
-  "homepage": "",
+  "homepage": "http://b1ckdug.github.io/portfolio-website",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
